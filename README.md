@@ -46,4 +46,5 @@ E. Manifest :
 
 
 F. Video hasil running di Android Studio:
+
 ![indiiegoo](https://user-images.githubusercontent.com/48081068/106413031-a6600e00-647b-11eb-949b-d0d8a2888826.gif)
