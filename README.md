@@ -39,6 +39,10 @@ D. Values :
     - strings.xml
     - themes.xml
     - themes.xml(night)
+   
+E. Manifest : 
+
+    - AndroidManifest.xml
 
 
 F. Video hasil running di Android Studio:
