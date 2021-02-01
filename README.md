@@ -7,38 +7,38 @@ https://drive.google.com/drive/folders/1CNyNHO6IyD_HiESD3iRva3pQs7WExfQ9?usp=sha
 A. Layout :
 
 
-  - activity_billing.xml
-  - activity_home.xml
-  - activity_main.xml
+    - activity_billing.xml
+    - activity_home.xml
+    - activity_main.xml
 
 B. Java :
 
 
-  - Billing.java
-  - Home.java
-  - MainActivity.java
+    - Billing.java
+    - Home.java
+    - MainActivity.java
 
 C. Drawable :
 
 
-  - billing.png
-  - home.png
-  - icon_add..xml
-  - latar.xml
-  - latar2.xml
-  - lock.xml
-  - person.xml
-  - sborder.xml
-  - user.png
-  - wifi.png
+    - billing.png
+    - home.png
+    - icon_add..xml
+    - latar.xml
+    - latar2.xml
+    - lock.xml
+    - person.xml
+    - sborder.xml
+    - user.png
+    - wifi.png
 
 D. Values : 
 
 
-  - colors.xml
-  - strings.xml
-  - themes.xml
-  - themes.xml(night)
+    - colors.xml
+    - strings.xml
+    - themes.xml
+    - themes.xml(night)
 
 
 F. Video hasil running di Android Studio:
